@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    font-size: 70px;
+    color: black;
+}
+fieldset{
+    text-align: center;
+    font-size: 20px;
+    color: rgb(253, 226, 91);
+}
+body{background-image: url(digital-marketing-with-icons-business-people_53876-94833.jpg);
+    background-size: cover;
+}
+a{
+    color: chartreuse;
+}
+h1{
+    color: rgb(255, 136, 0);
+}
+body{
+    background-color: gold;
+    color: black;
+}
+address {
+    display: block;
+    font-style: italic;
+  }
